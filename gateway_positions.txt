@@ -1,0 +1,6 @@
+**.loRaGW[0].initialX = 1994.95
+**.loRaGW[0].initialY = 5525.89
+**.loRaGW[1].initialX = 6493.96
+**.loRaGW[1].initialY = 2431.76
+**.loRaGW[2].initialX = 6284.79
+**.loRaGW[2].initialY = 8085.98
